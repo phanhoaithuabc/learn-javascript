@@ -1,0 +1,25 @@
+
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "description": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "json-server 2",
+      "description": "typicode 2"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
